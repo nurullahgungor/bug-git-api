@@ -1,0 +1,7 @@
+{
+    "userName" : "yourGithubUserName",
+    "githubApiUrl" : "https://api.github.com/search/repositories?q=user:",
+    "githubToken" : "yourGithubToken",
+    "optionalUserAgent" : "",
+    "port" : "3000"
+}
