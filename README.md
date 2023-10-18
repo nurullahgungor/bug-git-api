@@ -24,5 +24,5 @@ You can use this API in your web site like extension for visualize GitHub repos 
     You must `change` the `config.json` file from `config` directory.
 
     > User name must be your GitHub username
-    > Github token must be your generated token.
+> Github token must be your generated token.
 ## Features
