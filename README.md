@@ -2,10 +2,10 @@
 
 ## GOALS
 
-- [] Bugfix on routes/gitRepos.js
-- [] add error handling on project
-- [] Genarate API tokens for users
-- [] Renders HTML pages
+- [ ] Bugfix on routes/gitRepos.js
+- [ ] add error handling on project
+- [ ] Genarate API tokens for users
+- [ ] Renders HTML pages
 
 
 ## About Project
