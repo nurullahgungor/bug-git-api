@@ -8,8 +8,8 @@ You can use this API in your web site like extension for visualize GitHub repos 
 ### 1. Generate a GitHub token
 1. 
 - Firstly generate a GitHub token from => Settings => Developer Settings => Personel Access Tokens => Tokens(classic).
-- > [!Warning]
-- > YOU CAN SEE YOUR GITHUB TOKEN JUST ONCE AND DON'T SHARE IT ANYONE
+> [!Warning]
+> YOU CAN SEE YOUR GITHUB TOKEN JUST ONCE AND DON'T SHARE IT ANYONE
 - Generate New Token (classic) and submit all the `repo` permissions.
 - Click the generate token button.
 
