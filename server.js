@@ -5,7 +5,10 @@ const gitRepos = require("./routes/gitRepos");
 
 console.log(config)
 
-app.use("/gitRepos", gitRepos);
+
+// Important for project branch
+// Change `/gitRepos` with your link branch.
+app.use("/gitRepos", gitRepos); 
 
 app.get("/test",(req,res) =>{
     res.end("text ready");
