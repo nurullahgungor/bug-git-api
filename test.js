@@ -3,7 +3,7 @@ const app = express();
 const config = require("./bundle/config");
 const gitRepos = require("./routes/gitRepos");
 
-console.log(config)
+console.log(config);
 
 
 // Important for project branch

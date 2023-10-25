@@ -2,14 +2,15 @@
 
 ## GOALS
 - [x] Write repo name on console, with object
+- [ ] Change request type https to fetch api system in routes/gitRepos.js file 
 - [ ] Bugfix on routes/gitRepos.js
 - [ ] add error handling on project
-- [ ] Genarate API tokens for users
-- [ ] Renders HTML pages
+- [ ] Convert this repository, an GitHub's api library.
+- [ ] add operations.log file.
 
 
 ## About Project
-You can use this API in your web site like extension for visualize GitHub repos and information or managing your GitHub account with command prompt.
+You can use this library in your web site like extension for visualize GitHub repos and information or managing your GitHub account with command prompt.
 
 ## Setup
 
@@ -41,6 +42,6 @@ To run api, run the following command
 ```
 
 ## Features
-- This api pulling your information on your profile like repo names, repo languages, about repo and etc. 
-- I will add api authorization
-- More information about your profile like stars, forks and etc.
+This api pulling your information on your profile like repo names, repo languages, about repo and etc. 
+I will add api authorization
+More information about your profile like stars, forks and etc.
