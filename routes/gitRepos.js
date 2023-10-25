@@ -1,6 +1,5 @@
 const express = require("express");
 const https = require("https");
-const config = require("../bundle/config");
 const router = express.Router();
 
 const gitApiOpt = require("../bundle/config");
