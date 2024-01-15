@@ -2,7 +2,7 @@
 
 ## GOALS
 - [x] Write repo name on console, with object
-- [ ] Change request type https to fetch api system in routes/gitRepos.js file 
+- [x] Change request type https to fetch api system in routes/gitRepos.js file 
 - [ ] Bugfix on routes/gitRepos.js
 - [ ] add error handling on project
 - [ ] Convert this repository, an GitHub's api library.
