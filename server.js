@@ -1,7 +1,7 @@
 const express = require("express");
 const app = express();
 const config = require("./bundle/config");
-const gitRepos = require("./routes/gitRepos");
+const gitRepos = require("./routes/fetchGitRepos");
 
 console.log(config);
 
