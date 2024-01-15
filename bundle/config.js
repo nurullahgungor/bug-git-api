@@ -2,15 +2,17 @@
     IOC container testing 
 
     **********************
-    for developers = require("../config/config.json");
+    for developers = require("../safe_datas/config/config.json");
 
-    for productions = require("../config/config.json");
+    
+    for productions = require("..config/config.json");
     **********************
     
 */ 
 const config = require("../config/config.json")
 
 const headerMiddleware = {
+    internet_protocol : "https://",
     hostname: 'api.github.com',
     path: `/search/repositories?q=user:${config.userName}`, // Github api path url
     method: 'GET',
